@@ -1,0 +1,120 @@
+Player,Market_Value,Club,Passes,Big Chances Missed,Clearence,Tackles,Goals,Shots,Assists,Touches,Position
+Claudio Bravo,10.2,Manchester City,664,0,18,0,0,0,0,830,Goalkeeper
+Willy Caballero,1.7,Manchester City,391,0,15,0,0,0,0,532,Goalkeeper
+John Stones,29.75,Manchester City,1464,3,115,26,0,13,0,1763,Defender
+Vincent Kompany,21.25,Manchester City,557,0,42,15,3,9,0,667,Defender
+Aleksandar Kolarov,9.35,Manchester City,1859,0,155,47,1,32,1,2418,Defender
+Pablo Zabaleta,6.8,Manchester City,573,0,42,41,1,7,1,898,Defender
+Bacary Sagna,4.25,Manchester City,832,0,48,23,0,4,1,1116,Defender
+Fernando,11.05,Manchester City,370,0,32,21,0,0,0,483,Midfielder
+Fernandinho,21.25,Manchester City,2180,4,60,82,2,36,1,2732,Midfielder
+Fabian Delph,6.8,Manchester City,0,0,4,7,1,6,0,270,Midfielder
+Kevin De Bruyne,55.25,Manchester City,1801,3,8,50,6,86,18,2586,Midfielder
+David Silva,25.5,Manchester City,2075,4,21,43,4,48,7,2648,Midfielder
+Raheem Sterling,38.25,Manchester City,1033,5,3,24,7,64,7,1650,Forward
+Nolito,15.3,Manchester City,391,3,4,14,4,32,2,546,Forward
+Gabriel Jesus,21.25,Manchester City,0,3,0,0,7,24,4,357,Forward
+Kelechi Iheanacho,8.5,Manchester City,0,3,0,6,4,22,3,296,Forward
+David de Gea,34,Manchester United,849,0,11,0,0,0,0,1079,Goalkeeper
+Eric Bailly,21.25,Manchester United,876,1,126,60,0,6,0,1273,Defender
+Chris Smalling,17,Manchester United,464,0,126,12,1,7,1,656,Defender
+Marcos Rojo,16.15,Manchester United,951,0,143,29,1,14,0,1260,Defender
+Phil Jones,11.9,Manchester United,791,0,138,34,0,3,0,1059,Defender
+Daley Blind,18.7,Manchester United,1040,0,108,45,1,9,2,1566,Defender
+Luke Shaw,17,Manchester United,382,0,27,12,0,6,1,565,Defender
+Matteo Darmian,10.2,Manchester United,595,0,71,42,0,2,0,993,Defender
+Antonio Valencia,6.8,Manchester United,1370,1,58,67,1,9,3,2157,Defender
+Michael Carrick,1.7,Manchester United,1263,0,37,26,0,8,0,1460,Midfielder
+Paul Pogba,68,Manchester United,2178,5,42,53,5,92,4,2841,Midfielder
+Ander Herrera,23.8,Manchester United,2089,1,51,84,1,38,6,2607,Midfielder
+Marouane Fellaini,10.2,Manchester United,1057,2,52,55,1,23,0,1365,Midfielder
+Ashley Young,5.95,Manchester United,429,0,25,18,0,5,1,675,Midfielder
+Henrikh Mkhitaryan,31.45,Manchester United,775,2,12,23,4,33,1,1137,Midfielder
+Juan Mata,26.35,Manchester United,990,5,8,22,6,40,3,1283,Midfielder
+Jesse Lingard,7.65,Manchester United,727,4,8,17,1,37,0,997,Midfielder
+Wayne Rooney,17,Manchester United,779,6,10,21,5,52,5,1132,Forward
+Anthony Martial,25.5,Manchester United,608,1,9,17,4,42,6,992,Forward
+Zlatan Ibrahimovic,10.2,Manchester United,1041,18,22,10,17,115,5,1413,Forward
+Marcus Rashford,8.5,Manchester United,544,4,6,16,5,44,1,977,Forward
+Hugo Lloris,20.4,Tottenham Hotspur,1060,0,32,0,0,0,0,1365,Goalkeeper
+Michel Vorm,4.25,Tottenham Hotspur,134,0,0,0,0,0,0,171,Goalkeeper
+Toby Alderweireld,25.5,Tottenham Hotspur,1522,1,162,41,1,28,0,1875,Defender
+Jan Vertonghen,21.25,Tottenham Hotspur,2051,0,230,43,0,14,0,2552,Defender
+Kevin Wimmer,5.95,Tottenham Hotspur,225,0,13,3,0,0,0,264,Defender
+Danny Rose,17,Tottenham Hotspur,783,0,52,50,2,23,2,1417,Defender
+Ben Davies,7.65,Tottenham Hotspur,1052,0,78,39,1,13,3,1606,Defender
+Kyle Walker,17,Tottenham Hotspur,1464,0,94,72,0,19,5,2366,Defender
+Kieran Trippier,5.1,Tottenham Hotspur,346,0,13,17,0,3,5,535,Defender
+Eric Dier,18.7,Tottenham Hotspur,1981,1,149,48,2,23,0,2402,Midfielder
+Victor Wanyama,15.3,Tottenham Hotspur,1971,3,69,90,4,40,1,2464,Midfielder
+Dele Alli,34,Tottenham Hotspur,1328,11,17,52,18,94,7,2029,Midfielder
+Moussa Sissoko,17,Tottenham Hotspur,453,0,11,14,0,17,2,665,Midfielder
+Harry Winks,2.55,Tottenham Hotspur,366,0,6,10,1,6,1,451,Midfielder
+Christian Eriksen,29.75,Tottenham Hotspur,1977,3,20,45,8,133,15,2753,Midfielder
+Harry Kane,42.5,Tottenham Hotspur,597,11,21,22,29,110,7,1116,Forward
+Vincent Janssen,11.9,Tottenham Hotspur,225,5,2,15,2,30,2,409,Forward
+Simon Mignolet,8.5,Liverpool,806,0,28,0,0,0,0,1077,Goalkeeper
+Loris Karius,6.8,Liverpool,268,0,7,0,0,0,0,343,Goalkeeper
+Joel Matip,17,Liverpool,1699,2,153,47,1,26,0,2062,Defender
+Dejan Lovren,12.75,Liverpool,2001,0,182,41,2,15,1,2387,Defender
+Ragnar Klavan,3.4,Liverpool,938,0,92,25,0,4,0,1125,Defender
+Alberto Moreno,8.5,Liverpool,182,0,17,6,0,3,1,276,Defender
+Nathaniel Clyne,17.85,Liverpool,1795,1,54,80,0,26,2,2693,Defender
+Trent Alexander-Arnold,425,Liverpool,71,0,11,4,0,3,0,137,Defender
+Emre Can,12.75,Liverpool,1659,2,52,66,5,45,2,2097,Midfielder
+Lucas Leiva,6.8,Liverpool,887,1,56,37,0,8,3,1098,Midfielder
+Jordan Henderson,23.8,Liverpool,2057,1,40,88,1,17,4,2423,Midfielder
+James Milner,12.75,Liverpool,2168,2,100,94,7,36,3,3323,Midfielder
+Philippe Coutinho,34,Liverpool,1402,4,5,35,13,106,7,2038,Midfielder
+Georginio Wijnaldum,21.25,Liverpool,1625,1,32,46,6,60,9,2044,Midfielder
+Adam Lallana,18.7,Liverpool,1407,2,21,51,8,50,7,1867,Midfielder
+Ben Woodburn,425,Liverpool,0,0,0,4,0,2,0,56,Midfielder
+Roberto Firmino,29.75,Liverpool,1543,9,14,58,11,100,7,2251,Forward
+Daniel Sturridge,18.7,Liverpool,278,3,0,1,3,40,1,409,Forward
+Divock Origi,10.2,Liverpool,391,4,2,11,7,38,3,724,Forward
+Thibaut Courtois,34,Chelsea,792,0,23,0,0,0,0,1097,Goalkeeper
+David Luiz,25.5,Chelsea,1570,0,171,42,1,31,0,2036,Defender
+Kurt Zouma,14.45,Chelsea,128,0,11,8,0,0,1,179,Defender
+Gary Cahill,13.6,Chelsea,1849,0,167,53,6,24,0,2273,Defender
+Nathan Ake,6.8,Chelsea,59,0,3,4,0,1,1,71,Defender
+John Terry,0.85,Chelsea,320,1,21,3,1,8,0,372,Defender
+Marcos Alonso,17,Chelsea,1250,2,76,56,6,46,3,2081,Defender
+Cesar Azpilicueta,21.25,Chelsea,2459,0,119,84,1,18,4,3037,Defender
+N'Golo Kante,34,Chelsea,2122,2,41,127,1,27,1,2671,Midfielder
+Nemanja Matic,29.75,Chelsea,1865,0,46,51,1,20,7,2249,Midfielder
+Cesc Fabregas,29.75,Chelsea,1326,0,16,30,5,26,12,1600,Midfielder
+Eden Hazard,59.5,Chelsea,1750,9,4,18,16,77,5,2486,Midfielder
+Willian,27.2,Chelsea,777,0,5,19,8,44,2,1172,Midfielder
+Pedro,21.25,Chelsea,947,2,11,48,9,59,9,1446,Forward
+Victor Moses,10.2,Chelsea,1010,2,48,47,3,45,2,1814,Midfielder
+Diego Costa,42.5,Chelsea,1034,12,39,18,20,111,7,1763,Forward
+Michy Batshuayi,21.25,Chelsea,80,2,0,2,5,17,1,145,Forward
+Joel Robles,4.25,Everton,570,0,16,0,0,0,1,761,Goalkeeper
+Ramiro Funes Mori,10.2,Everton,794,1,111,26,0,12,1,1065,Defender
+Ashley Williams,6.8,Everton,1720,1,287,53,1,15,3,2264,Defender
+Phil Jagielka,2.13,Everton,1216,0,208,43,3,14,2,1632,Defender
+Mason Holgate,2.13,Everton,643,0,67,41,0,6,1,1030,Defender
+Leighton Baines,10.2,Everton,1309,1,65,63,2,15,3,2032,Defender
+Seamus Coleman,14.45,Everton,920,0,68,53,4,18,3,1698,Defender
+Morgan Schneiderlin,18.7,Everton,851,0,28,25,1,8,0,1009,Midfielder
+Gareth Barry,1.28,Everton,1376,0,57,70,2,17,1,1732,Midfielder
+James McCarthy,12.75,Everton,247,0,0,19,1,6,1,363,Midfielder
+Idrissa Gueye,10.2,Everton,1885,2,39,135,1,25,1,2420,Midfielder
+Tom Davies,1.28,Everton,783,1,10,36,2,14,3,1059,Midfielder
+Ross Barkley,18.7,Everton,1651,5,35,30,5,89,8,2320,Midfielder
+Yannick Bolasie,17,Everton,282,1,8,18,1,27,4,589,Forward
+Kevin Mirallas,11.05,Everton,720,1,11,18,4,61,6,1198,Midfielder
+Aaron Lennon,5.1,Everton,0,0,9,13,0,5,1,216,Midfielder
+Romelu Lukaku,42.5,Everton,965,8,27,9,25,110,6,1517,Forward
+Enner Valencia,8.5,Everton,198,3,9,15,3,24,1,398,Forward
+Sadio Mane,32.3,Liverpool,1020,3,10,23,13,57,5,1562,Midfielder
+Nicolíçs Otamendi,25.5,Manchester City,1945,0,190,69,1,15,1,2440,Defender
+Yaya Toure,8.5,Manchester City,1798,1,39,42,5,32,0,2074,Midfielder
+Gael Clichy,6.8,Manchester City,1454,0,86,44,1,0,0,1979,Defender
+Sergio Aguero,55.25,Manchester City,771,13,0,18,20,139,3,1325,Forward
+Leroy Sane,25.5,Manchester City,691,6,5,35,5,33,3,1117,Midfielder
+Jesus Navas,12.75,Manchester City,582,0,13,19,0,8,0,890,Midfielder
+Ilkay Gundogan,25.5,Manchester City,505,0,4,10,3,16,1,617,Midfielder
+Mousa Dembele,15.3,Tottenham Hotspur,1479,0,20,64,1,15,1,1865,Midfielder
+Son Heung-Min,21.25,Tottenham Hotspur,775,5,6,19,14,80,6,1265,Midfielder
+Erik Lamela,22.1,Tottenham Hotspur,305,1,0,13,1,18,1,475,Midfielder
